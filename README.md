@@ -3,6 +3,6 @@ The Text Summarizer project aims to automatically generate a concise and coheren
 
 Features
 Extractive Summarization: Identifies the most important sentences or phrases from the original text and extracts them to form a summary.
-Abstractive Summarization: Generates new sentences that paraphrase and summarize the original content in a more natural manner.
+Abstractive Summarization: Generates new sentences that paraphrase and summarize the original content more naturally.
 Multi-format Support: Can process different input formats, such as plain text, PDFs, and articles.
 Customizable Length: Users can specify the length or percentage of the summary they desire.
